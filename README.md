@@ -1,1 +1,1 @@
-# my_homework_stepic_course
+# my_homework_stepik_course
